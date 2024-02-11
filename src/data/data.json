@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "titulo": "Pantalón Penny",
+        "descripcion": "Pantalón sastre con tablas encontradas en delantero y cierre.",
+        "categoria": "pantalones",
+        "imagen": "https://acdn.mitiendanube.com/stores/962/628/products/kill_lookbook_41601-350d58557c6ddad82916928065461482-1024-1024.webp",
+        "precio": 35000,
+        "stock": 5
+    },
+    {
+        "id": 2,
+        "titulo": "Camisa Carmelo",
+        "descripcion": "",
+        "categoria": "camisas",
+        "imagen": "https://acdn.mitiendanube.com/stores/962/628/products/kill_lookbook_dia27063-72c73b74b6852b804616963603671544-1024-1024.webp",
+        "precio": 28000,
+        "stock": 8
+    },
+    {
+        "id": 3,
+        "titulo": "Pantalón Paciano",
+        "descripcion": "Pantalón sastre con pinzas y bolsillos en delantero. Ambos colores se pueden armar conjunto con :Bambi.",
+        "categoria": "pantalones",
+        "imagen": "https://acdn.mitiendanube.com/stores/962/628/products/kill_lookbook_48621-413fa6dbda7d0ec7f616921124469599-1024-1024.webp",
+        "precio": 42000,
+        "stock": 3
+    },
+    {
+        "id": 4,
+        "titulo": "Blazer Birse",
+        "descripcion": "Blazer con bolsillos delanteros. Forro interno. Se puede armar conjunto con: Palben en negro - Paciano en negro y camel.",
+        "categoria": "blazers",
+        "imagen": "https://acdn.mitiendanube.com/stores/962/628/products/kill_lookbook_d3_101851-44ed1086e7c4e56bd616921111279593-1024-1024.webp",
+        "precio": 59000,
+        "stock": 7
+    },
+    {
+        "id": 5,
+        "titulo": "Remera Raine",
+        "descripcion": "Remera con recorte en manga y escote cavado en espalda.",
+        "categoria": "remeras",
+        "imagen": "https://acdn.mitiendanube.com/stores/962/628/products/kill_lookbook_d3_99131-f1fc0a7d132e8e091716922880116138-1024-1024.webp",
+        "precio": 26000,
+        "stock": 6
+    },
+    {
+        "id": 6,
+        "titulo": "Camisa Crispi",
+        "descripcion": "Camisa manga corta.",
+        "categoria": "camisas",
+        "imagen": "https://acdn.mitiendanube.com/stores/962/628/products/kill_lookbook_dia27447-c8b45218b3e4bb8a8d16965987720945-1024-1024.webp",
+        "precio": 31000,
+        "stock": 4
+    },
+    {
+        "id": 7,
+        "titulo": "Camisa Cloti",
+        "descripcion": "Camisa manga corta de poplin con puño.",
+        "categoria": "camisas",
+        "imagen": "https://acdn.mitiendanube.com/stores/962/628/products/kill_lookbook_d3_94561-c9a9e694bd8f09067a16940118374765-1024-1024.webp",
+        "precio": 33000,
+        "stock": 9
+    },
+    {
+        "id": 8,
+        "titulo": "Camisa Cross",
+        "descripcion": "Camisa de algodón con manga regulable.",
+        "categoria": "camisas",
+        "imagen": "https://acdn.mitiendanube.com/stores/962/628/products/kill_lookbook_d3_9476-1f90a030cc3cf0760616970349355597-1024-1024.webp",
+        "precio": 24000,
+        "stock": 2
+    },
+    {
+        "id": 9,
+        "titulo": "Blazer Betiana",
+        "descripcion": "Blazer oversize estilo sastre con dos botones en el frente y pequeña abertura en espalda a la altura de la cadera para una cómoda usabilidad.",
+        "categoria": "blazers",
+        "imagen": "https://acdn.mitiendanube.com/stores/962/628/products/kill_lookbook_dia264171-b64ae949737eccc6e216921128597084-1024-1024.webp",
+        "precio": 47000,
+        "stock": 1
+    },
+    {
+        "id": 10,
+        "titulo": "Blazer Bosco",
+        "descripcion": "Blazer de lino.",
+        "categoria": "blazers",
+        "imagen": "https://acdn.mitiendanube.com/stores/962/628/products/kill_lookbook_36861-be4b1afd08a61bd16516947138658213-1024-1024.webp",
+        "precio": 67000,
+        "stock": 10
+    },
+    {
+        "id": 11,
+        "titulo": "Blazer Bernardo",
+        "descripcion": "Blazer de sarga con solapa.",
+        "categoria": "blazers",
+        "imagen": "https://acdn.mitiendanube.com/stores/962/628/products/kill_lookbook_4316-c6b6418e371c494a3517000710843604-1024-1024.webp",
+        "precio": 40000,
+        "stock": 6
+    },
+    {
+        "id": 12,
+        "titulo": "Pantalón Polet",
+        "descripcion": "Pantalón de lindo de corte recto y ancho con lazo para atar en cintura.",
+        "categoria": "pantalones",
+        "imagen": "https://acdn.mitiendanube.com/stores/962/628/products/kill900001-d5a4f1e7091305b88016686968656014-1024-1024.webp",
+        "precio": 29000,
+        "stock": 8
+    },
+    {
+        "id": 13,
+        "titulo": "Remera Ricy",
+        "descripcion": "Musculosa rayada.",
+        "categoria": "remeras",
+        "imagen": "https://acdn.mitiendanube.com/stores/962/628/products/kill_lookbook_59441-866cd49f0debf25e4616921961358683-1024-1024.webp",
+        "precio": 23000,
+        "stock": 3
+    },
+    {
+        "id": 14,
+        "titulo": "Remera Roel",
+        "descripcion": "Musculosa con ojalillos en cuello y sisas.",
+        "categoria": "remeras",
+        "imagen": "https://acdn.mitiendanube.com/stores/962/628/products/kill_lookbook_dia26150-cc7a1ac1084c56bb6f16976399307022-1024-1024.webp",
+        "precio": 25000,
+        "stock": 10
+    },
+    {
+        "id": 15,
+        "titulo": "Remera Radel",
+        "descripcion": "Remera estampada manga corta con frunce en hombros.",
+        "categoria": "remeras",
+        "imagen": "https://acdn.mitiendanube.com/stores/962/628/products/kill_lookbook_dia262231-6b2636d3bac81070aa16929735750718-1024-1024.webp",
+        "precio": 36000,
+        "stock": 5
+    },
+    {
+        "id": 16,
+        "titulo": "Pantalón Patsy Blanco",
+        "descripcion": "Pantalón de bengalina con bolsillos.",
+        "categoria": "pantalones",
+        "imagen": "https://acdn.mitiendanube.com/stores/962/628/products/kill_lookbook_d3_100011-1b0eb9bdd88c4b558716922768000104-1024-1024.webp",
+        "precio": 33000,
+        "stock": 6
+    }
+]

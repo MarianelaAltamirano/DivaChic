@@ -11,7 +11,7 @@
     {
         "id": 2,
         "titulo": "Camisa Carmelo",
-        "descripcion": "",
+        "descripcion": "Camisa de manga larga estampada con pliegues en la espalda.",
         "categoria": "camisas",
         "imagen": "https://acdn.mitiendanube.com/stores/962/628/products/kill_lookbook_dia27063-72c73b74b6852b804616963603671544-1024-1024.webp",
         "precio": 28000,
@@ -22,7 +22,7 @@
         "titulo": "Pantalón Paciano",
         "descripcion": "Pantalón sastre con pinzas y bolsillos en delantero. Ambos colores se pueden armar conjunto con :Bambi.",
         "categoria": "pantalones",
-        "imagen": "https://acdn.mitiendanube.com/stores/962/628/products/kill_lookbook_48621-413fa6dbda7d0ec7f616921124469599-1024-1024.webp",
+        "imagen": "https://acdn.mitiendanube.com/stores/962/628/products/lookbook-i22-36621-a3bb6d553ecd93e2f016451983384117-1024-1024.webp",
         "precio": 42000,
         "stock": 3
     },

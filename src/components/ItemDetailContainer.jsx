@@ -1,21 +1,22 @@
-import { useState, useEffect } from 'react';
-import { askForItemForId } from "../helpers/askForData";
-import ItemDetail from "./ItemDetail"; // Corregido aquí
+import { useEffect, useState } from "react"
+import ItemDetail from "./ItemDetail";
 import { useParams } from "react-router-dom";
+import { doc, getDoc } from "firebase/firestore";
+import { db } from "../firebase/config";
 
 const ItemDetailContainer = () => {
     const [item, setItem] = useState(null);
     const { id } = useParams();  
     
     useEffect(() => {
-        askForItemForId(Number(id))
-            .then((res) => {
-                setItem(res);
-            })
-            .catch((error) => {
-                console.error("Error fetching item:", error);
-                setItem(null); 
-            });
+        const docRef = doc(db, "productos", id);
+      getDoc(docRef)
+        .then((resp) => {
+          setItem(
+            { ...resp.data(), id: resp.id }
+          );
+        })
+
     }, [id]); 
 
     return (

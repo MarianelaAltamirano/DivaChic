@@ -183,3 +183,118 @@
     padding: 1rem;
 }
 
+.formulario {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    align-items: flex-start;
+}
+
+.formulario input {
+    padding: .5rem;
+    width: 18rem;
+    border-radius: .5rem;
+    border: 2px solid black;
+}
+
+.formulario input:focus {
+    outline: 0;
+    border: 2px solid var(--clr-main);
+    outline: 2px solid var(--clr-main);
+}
+****************************************************Carrito*******************************************
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #424242;
+    margin: 0;
+}
+
+.contenedor {
+    width: 90%; /* Ajustado para dispositivos más pequeños */
+    max-width: 800px;
+    padding: 20px; /* Espaciado uniforme */
+    background-color: #efdaf9;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.titulo-principal {
+    text-align: center;
+    color: #424242;
+    font-size: 2.5rem;
+    margin-top: 5rem;
+    font-weight: bold;
+}
+
+
+.producto-carrito {
+    border-bottom: 1px solid #424242;
+    padding: 20px 0; /* Espaciado uniforme */
+}
+
+.producto-carrito h3 {
+    margin: 5px 0;
+    color: #424242;
+}
+
+.prod {
+    color: #424242;
+    font-size: 1.2rem; /* Tamaño de fuente ajustado */
+}
+
+.precio-total {
+    text-align: right;
+    font-weight: bold;
+    margin-top: 20px; /* Ajustado el margen superior */
+    font-size: 1.6rem; /* Tamaño de fuente ajustado */
+    color: #424242;
+}
+
+.boton-vaciar, .enlace-compra {
+    display: inline-block;
+    padding: 12px 24px; /* Ajustado el padding */
+    margin-top: 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.boton-vaciar {
+    background-color: #c56cee;
+    color: #fff;
+}
+
+.boton-vaciar:hover {
+    background-color: #a23fad;
+}
+
+.enlace-compra {
+    background-color: #424242;
+    color: #fff;
+    text-decoration: none;
+}
+
+.enlace-compra:hover {
+    background-color: #555;
+    color: #fff;
+}
+
+.carrito-vacio {
+    font-size: 1.6rem; /* Tamaño de fuente ajustado */
+    text-align: center;
+    margin-top: 2rem;
+    color: #555;
+}
+
+@media (max-width: 768px) {
+    .contenedor {
+        width: 90%;
+    }
+}
